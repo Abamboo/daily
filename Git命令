@@ -1,0 +1,7 @@
+克隆仓库：git clone "URL"
+本地仓库同步到远程仓库：
+  git add filename
+  git commit -m "文件备注"
+  git push
+  完成
+  
